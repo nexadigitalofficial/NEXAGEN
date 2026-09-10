@@ -1,0 +1,18 @@
+{
+  "patient_id": "OMEGA-ZERO-001",
+  "phenotype": "Baseline Homo Sapiens",
+  "genetic_markers": {
+    "CYP450_metabolism_rate": "Fast",
+    "NR2B_receptor_density": 0.65,
+    "SRGAP2C_expression": "Low",
+    "BBB_permeability_index": 0.82
+  },
+  "snp_variants": [
+    "rs4680: A/A",
+    "rs6265: G/A"
+  ],
+  "quantum_baseline": {
+    "tubulin_resonance_freq_mhz": 42.6,
+    "default_decoherence_ms": 120.4
+  }
+}

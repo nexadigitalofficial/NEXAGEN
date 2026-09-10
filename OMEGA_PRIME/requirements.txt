@@ -1,0 +1,7 @@
+# OMEGA-PRIME System Requirements
+requests==2.31.0
+biopython==1.81
+qiskit==0.45.1
+google-antigravity-sdk==0.0.4
+numpy==1.26.2
+chromadb==0.4.22

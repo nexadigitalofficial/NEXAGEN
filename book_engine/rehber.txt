@@ -1,0 +1,253 @@
+====================================================================================================
+NEXAGEN OMEGA: POST-HUMAN INTELLIGENCE & ULTRA-DETAILED IQ ENHANCEMENT
+1000 SAYFALIK ÜNİVERSİTE DÜZEYİ AKADEMİK BAŞYAPIT REHBERİ (20 BÖLÜM x 50 SAYFA)
+====================================================================================================
+Eser Başlığı: NÖRO-GENETİK VE BİYOTEKNOLOJİK TEKİLLİK: 
+              İnsan Zekasının Moleküler, Epigenetik, Farmakolojik ve Kuantum Mühendisliği
+Akademik Kapsam: 20 Cilt / Bölüm, Her Biri 50 Sayfalık Kapsamlı Monograf (Toplam 1000 Sayfa)
+Hedef Kitle:   İleri Nörobiyoloji, Sentetik Biyoloji, Biyofizik ve Moleküler Tıp Kürsüleri
+Format:        DOCX (Georgia / Palatino Tipografisi, Renkli Tablolar, Şemalar, Formüller)
+====================================================================================================
+
+BÖLÜM 01: NÖRAL MİMARİ VE ZEKANIN BİYOFİZİĞİ: P-FIT, AKSONAL MİYELİNASYON VE RANVIER DİNAMİKLERİ [50 SAYFA]
+1.1. Genel Zeka Faktörünün (g) Nörobiyolojik Temelleri ve P-FIT Mimarisi
+1.2. Aksonal Çap, Ranvier Düğümleri ve Aksiyon Potansiyeli İletim Dinamikleri ($v = 6 \cdot d$)
+1.3. Nav1.6 Sodyum Kanalları ve Saltatorik İletim Biyofiziği
+1.4. Miyelinleşme Kalınlığı (G-Ratio) ve Oligodendrosit Olgunlaşma Kaskadı (Olig2, Sox10)
+1.5. Kortiko-Kortikal Beyaz Cevher Yolları: Korpus Kallozum ve Süperior Longitudinal Fasikül
+1.6. Gama (40 Hz) ve Teta (4-8 Hz) Faz-Kilitli Senkronizasyonunun Enformasyon İşleme Hacmi
+1.7. Nöronal Sinyal-Gürültü Oranı (SNR) ve Bilişsel Verimlilik Hipotezi
+1.8. Bilişsel Hız ve Reaksiyon Süresinin İyonik İletimle Matematiksel Modellemesi
+1.9. Karşılaştırmalı Veri Tablosu: Primat vs. İnsan Aksonal İletim Hızları
+1.10. Bölüm Sentezi, Biyofiziksel Limitler ve Gelecek Manipülasyon Hedefleri
+
+BÖLÜM 02: SİNAPTİK KİNETİK VE İYONİK GEÇİRGENLİK: NMDAR, AMPAR, CaMKII VE PSD-95 [50 SAYFA]
+2.1. Presinaptik Vezikül Ekzositozu: SNARE Kompleksi (Sintaksin-1, SNAP-25, VAMP2) ve Sinaptotagmin-1
+2.2. Glutamat Salınımı, Klerensi ve EAAT1/EAAT2 Taşıyıcı Kinetiği
+2.3. Post-Sinaptik Dansite (PSD-95), Shank3 ve Homer Protein İskelelerinin Yapısal Biyofiziği
+2.4. AMPA Reseptörleri (GluA1-GluA4): Kalsiyum Geçirgenliği, Tarz ve Deaktivasyon Kinetiği
+2.5. NMDA Reseptörleri: Voltaj Bağımlı Magnezyum (Mg2+) Blokajının Moleküler Kaldırılışı
+2.6. CaMKII Otofoforilasyonu (Thr286): Moleküler Hafıza Şalteri Olarak Fonksiyonu
+2.7. Erken ve Geç Uzun Süreli Potansiyelleşme (E-LTP vs. L-LTP) Biyokimyasal Kaskadları
+2.8. Retrograd İleticiler: Nitrik Oksit Sentaz (nNOS) ve Endokanabinoid Sinyali
+2.9. Karşılaştırmalı Veri Tablosu: İyonotropik Reseptör Kinetikleri ve İletkenlik Değerleri
+2.10. Bölüm Sentezi ve Sinaptik İletim Güçlendirme Reçetesi
+
+BÖLÜM 03: İNSAN NEOKORTEKSİNİN HÜCRESEL ÖZELLEŞMESİ: VON ECONOMO VE PİRAMİDAL ENTEGRASYON [50 SAYFA]
+3.1. Neokorteksin 6 Katmanlı Laminal Mimarisi ve Sütunsal Bilgi İşleme Modülleri
+3.2. Piramidal Nöronların Apikal Dendritik Morfolojisi ve Sinaptik Kompartımanlaşma
+3.3. Von Economo Nöronları (VEN): Ön Singulat ve İnsular Kortekste Hızlı Sezgisel İletim
+3.4. Kandelaber (Chandelier) İnternöronları ve Akson Başlangıç Segmenti (AIS) GABAerjik Kontrolü
+3.5. SRGAP2C Gen Duplikasyonunun Neotenik Etkileri ve Dendritik Diken Boynu Uzaması
+3.6. İnsan vs. Şempanze Kortikal Nöron Entegrasyon Kapasitesinin Karşılaştırmalı Analizi
+3.7. Nöronal Morfolojik Kinetikler: Omurga Başlığı Hacmi ve AMPA Reseptör Sayısı İlişkisi
+3.8. İleri Düzey Matematiksel Modelleme: Dendritik Kablo Teorisi ve Voltaj Azalımı
+3.9. Karşılaştırmalı Veri Tablosu: İnsan Kortikal Nöron Morfolojileri ve Elektrofizyolojisi
+3.10. Bölüm Sentezi ve Neokortikal Genişleme Mühendisliği
+
+BÖLÜM 04: GLİAL-NÖRONAL SENFONİ: ASTROSİTİK KALSİYUM, LAKTAT VE ÜÇLÜ SİNAPS [50 SAYFA]
+4.1. Üçlü Sinaps (Tripartite Synapse) Kavramı ve Astrositik Fonksiyonel Anatomi
+4.2. Astrositik Hücre İçi Kalsiyum Dalgaları ve İnter-Astrositik Gap Junctions (Konneksin 43)
+4.3. Gliotransmisyon: D-Serin, ATP ve Adenozin Salınımının Sinaptik Güce Etkisi
+4.4. Nöro-Vasküler Kenetlenme ve Astrositik Son Ayakların Kan Akımını Düzenlemesi
+4.5. Astrosit-Nöron Laktat Mekiği Hipotezi (ANLSH) ve MCT1/MCT2 Taşıyıcı Biyokimyası
+4.6. Glutamat-Glutamin Döngüsü ve Glutamin Sentetaz Enziminin Verimliliği
+4.7. Mikroglial Sinaptik Budama: Kompleman Sistemi (C1q, C3) ve Bilişsel Esneklik
+4.8. Oligodendrosit-Akson Metabolik Desteği ve MCT1 Aracılı Laktat Temini
+4.9. Karşılaştırmalı Veri Tablosu: Glial Transporterlar, İyon Kanalları ve Kinetik Parametreler
+4.10. Bölüm Sentezi ve Glial Amplifikasyon Stratejisi
+
+BÖLÜM 05: BEYİN BİYOENERJETİĞİ VE MİTOKONDRİYAL MÜHENDİSLİK: ATP, PGC-1a VE TFAM [50 SAYFA]
+5.1. Nöronal Enerji Ekonomisi: Na+/K+-ATPaz Pompalarının Termodinamik Maliyeti
+5.2. Aksiyon Potansiyeli ve Sinaptik İletim Başına Düşen ATP Molekül Hesabı
+5.3. Mitokondriyal Füzyon (MFN1, MFN2, OPA1) ve Fisyon (DRP1, Fis1) Dengesi
+5.4. Kinezor ve Dinein Motorları ile Mitokondrilerin Sinaptik Bölgelere Taşınması
+5.5. PGC-1alpha Transkripsiyonel Ko-Aktivatörü ve Mitokondriyal Biyogenez Kaskadı
+5.6. TFAM (Mitochondrial Transcription Factor A) ve mtDNA Transkripsiyon Amplifikasyonu
+5.7. NAD+/NADH Redoks Dengesi, Salvage Yolu (NAMPT) ve Sirtuin (SIRT1, SIRT3) Aktivasyonu
+5.8. Mitofaji Mekanizmaları: PINK1/Parkin ile Hasarlı Mitokondrilerin Temizlenmesi
+5.9. Karşılaştırmalı Veri Tablosu: Nöronal Mitokondriyal Biyokimya ve Biyoenerjetik İndeksler
+5.10. Bölüm Sentezi ve Mitokondriyal Güçlendirme Protokolü
+
+BÖLÜM 06: SEREBRAL HEMODİNAMİK, KAN-BEYİN BARİYERİ VE GLİFATİK DRENAJ [50 SAYFA]
+6.1. Kan-Beyin Bariyerinin (KBB) Moleküler Mimarisi: Sıkı Bağlantılar (Klaudin-5, Okludin, ZO-1)
+6.2. KBB Transsitoz Yolları: Reseptör Aracılı Transsitoz (TfR, LRP1, LY6A) ve Taşınma Kinetiği
+6.3. Akuaporin-4 (AQP4) Su Kanalları ve Astrositik Uç Plak Kutuplaşması
+6.4. Glifatik Sistem ve Beyin Omurilik Sıvısı (BOS) - İnterstisiyel Sıvı (İSS) Değişimi
+6.5. Yavaş Dalga Uykusu (SWS / NREM Evre 3) Sırasında Toksin Klerensi ve Bellek Sağlamlaştırma
+6.6. Keskin Dalga Dalgacıkları (Sharp-Wave Ripples) ve Hipokampal-Neokortikal Transfer
+6.7. Serebral Perfüzyon Basıncı ve Endotelyal Nitrik Oksit Sentaz (eNOS) Regülasyonu
+6.8. KBB Aşımında Kullanılan Yeni Nesil Nanotaşıyıcılar ve Biyo-Mühendislik Yöntemleri
+6.9. Karşılaştırmalı Veri Tablosu: KBB Taşıyıcıları, Afinite Değerleri ve Geçirgenlik Katsayıları
+6.10. Bölüm Sentezi ve Glifatik Optimizasyon Reçetesi
+
+BÖLÜM 07: İNSAN ZEKASININ GENOMİK HARİTASI: GRIN2B, SRGAP2C, ARHGAP11B, BDNF, FOXP2, KLOTHO [50 SAYFA]
+7.1. Bilişsel Genetiğin Çok-Etmenli Mimarisi ve GWAS (Genome-Wide Association Studies) Bulguları
+7.2. GRIN2B (GluN2B): Moleküler Yapısı, Kalsiyum Kinetiği ve Zeka Korelasyonu
+7.3. BDNF Val66Met (rs6265) Tek Nükleotit Polimorfizmi ve Pro-BDNF İşleme Darboğazları
+7.4. SRGAP2C: İnsana Özgü Duplikasyon, Rac1 Sinyali ve Sinaps Yoğunluğu Artırımı
+7.5. ARHGAP11B: Neokortikal Nörogenezis, Bazal Progenitörler ve Girifikasyon Artışı
+7.6. FOXP2: Motor Planlama, Konuşma ve Dil Karmaşıklığı İçin Sinaptik Plastisite
+7.7. KLOTHO (KL-VS): Yaşlanma Karşıtı Etkiler ve Neokortikal NMDAR Stabilizasyonu
+7.8. Zeka ile İlişkili Minör Aday Genler: CAMK2A, CHRM2, SNAP25, STX1A
+7.9. Karşılaştırmalı Veri Tablosu: Temel Zeka Genleri, Kromozomal Lokusları ve Fenotipik Etkileri
+7.10. Bölüm Sentezi ve Genomik Mühendislik Öncelik Sıralaması
+
+BÖLÜM 08: HASSAS GENOM DÜZENLEME: CRISPR-CAS9, BASE EDITING VE PRIME EDITING [50 SAYFA]
+8.1. CRISPR-Cas9 Sisteminin Biyokimyasal Mekanizması ve Yetişkin Nöronlardaki Kısıtlılıkları
+8.2. Çift Zincir Kırıklarının (DSB) Tehlikeleri: NHEJ İndelleri ve p53 Yanıtı
+8.3. Base Editing Mimarisi: Adenin Base Editörleri (ABE8e) ve Sitozin Base Editörleri (CBE)
+8.4. Prime Editing (PE2, PE3, PE5, PEmax): Cas9 Nickase (H840A) ve M-MLV Ters Transkriptaz
+8.5. Sentetik pegRNA Tasarım Kuralları: PBS (Primer Binding Site) ve RTT (Reverse Transcription Template)
+8.6. pegRNA Optimizasyon Algoritmaları: Erime Sıcaklığı ($T_m$), GC İçeriği ve İkincil Yapı Önleme
+8.7. Hedef-Dışı (Off-Target) Yanlışlama Testleri: CIRCLE-seq, GUIDE-seq ve Derin Sekanslama
+8.8. Bölünmeyen Post-Mitotik Nöronlarda Rekombinasyon ve Gen Düzeltme Verimliliği
+8.9. Karşılaştırmalı Veri Tablosu: Gen Düzenleme Platformlarının Kesinlik, Verim ve Hata Oranları
+8.10. Bölüm Sentezi ve Nöronal Gen Düzenleme Protokolü
+
+BÖLÜM 09: TRANSLASYONEL mRNA VE SENTETİK NÜKLEOZİT MÜHENDİSLİĞİ: saRNA VE LNP [50 SAYFA]
+9.1. Sentetik mRNA Tasarımı: 5' Cap Yapıları (Cap1, CleanCap) ve Translasyonel Başlatma
+9.2. İmmünojenite Blokajı: N1-Metilpsödoüridin ($m1\Psi$) ile TLR7/8/RIG-I İmmün Kaçışı
+9.3. 5' UTR ve 3' UTR Stabilite Sekansları (Alfa-Globin) ve Optimal Poli(A) Kuyruğu (120 nt)
+9.4. Kendini Çoğaltan mRNA (saRNA): Alphavirus VEEV Replikaz Kompleksi ve Düşük Doz Sürdürülebilirlik
+9.5. Lipit Nanopartikül (LNP) Biyofiziği: İyonize Edilebilir Lipitler (MC3, ALC-0315, SM-102)
+9.6. ApoE Aracılı Reseptör Endositozu ile Nöronal LNP Girişi
+9.7. Sitoplazmik Ribozom Kenetlenmesi ve Nörotrofik Faktörlerin (BDNF, Klotho) Pik Sentezi
+9.8. mRNA Yarı Ömrü ($t_{1/2}$) ve Parçalanma Kinetiğinin Matematiksel Modeli
+9.9. Karşılaştırmalı Veri Tablosu: Modifiye Nükleozit Türleri, LNP Formülasyonları ve Ekspresyon Süreleri
+9.10. Bölüm Sentezi ve Sentetik mRNA Transfeksiyon Reçetesi
+
+BÖLÜM 10: VİRAL VE SENTETİK VEKTÖR TEKNOLOJİLERİ: AAV.CAP-B10 VE LY6A TRANSSİTOZU [50 SAYFA]
+10.1. Adeno-İlişkili Virüs (AAV) Biyolojisi ve Nöro-Tropik Serotipler (AAV2, AAV8, AAV9)
+10.2. İleri Düzey Kapsit Mühendisliği: Yönlendirilmiş Evrim ve Cre-Rekombinaz Seçilimi (CREATE)
+10.3. AAV.PHP.eB ve AAV.CAP-B10: Beyin Endotelyal LY6A Reseptörüne Bağlanma Mekanizması
+10.4. İntravenöz Uygulama ile Tüm Neokorteks ve Hipokampüse Yaygın Vektör Dağılımı
+10.5. Dokuya ve Hücreye Özgü Promotörler: CaMKIIa, İnsan Sinapsin-1 (hSyn1) ve GFAP
+10.6. Karaciğer Tutulumunu Engelleme: MikroRNA Hedef Dizileri (miR-122) ile Hepatik Sessizleştirme
+10.7. Nötralizan Antikorlar (NAb) ve AAV İmmün Kaçış Mutasyonları
+10.8. Viral Dozimetri ($vg/kg$) ve Genom Bütünlüğü Analizi
+10.9. Karşılaştırmalı Veri Tablosu: AAV Kapsit Varyantları, Beyin Dağılım İndeksleri ve Güvenlik Eşikleri
+10.10. Bölüm Sentezi ve Kapsit Üretim/Paketleme Protokolü
+
+BÖLÜM 11: EPİGENOMİK VE KROMATİN MİMARİSİ: DNA METİLASYONU, TET ENZİMLERİ VE ENGRAMLAR [50 SAYFA]
+11.1. Epigenetik Hafıza Kodu: Nöronal Çekirdekte 5-Metilsitozin (5mC) Dinamikleri
+11.2. DNMT1, DNMT3A, DNMT3B Enzimlerinin Yetişkin Nöronlardaki Koruyucu ve Kısıtlayıcı Rolleri
+11.3. TET1, TET2, TET3 Dioksijenazlar ve 5hmC -> 5fC -> 5caC Aktif Demetilasyon Yolu
+11.4. Hipokampal Hafıza İzleri (Engram Hücreleri) ve Aktivite-Bağımlı Demetilasyon Kaskadı
+11.5. Nöral Plastisite Genlerinin (GRIN2B, BDNF Exon IV, c-Fos) Promotor Metilasyon Haritaları
+11.6. DNA Metilasyon Yaşı (Horvath Epigenetik Saati) ve Bilişsel Gerilemenin Tersine Çevrilmesi
+11.7. Dinamik CpG Adacıklarının Sekanslama Analizi: Bisülfit Sekanslama ve Nanopore Metilasyon Okuma
+11.8. Demetilasyonun Sinaptik İletim Hızına Matematiksel Etki Modellemesi
+11.9. Karşılaştırmalı Veri Tablosu: Nöral Epigenetik Modifikasyonlar, İlgili Enzimler ve Hafıza Etkileri
+11.10. Bölüm Sentezi ve Epigenomik Gençleştirme Stratejisi
+
+BÖLÜM 12: HİSTON KODUNUN YENİDEN YAZIMI: HDAC İNHİBİSYONU VE EUKROMATİN KİNETİĞİ [50 SAYFA]
+12.1. Nükleozom Biyofiziği: Oktamer Histon Çekirdeği (H2A, H2B, H3, H4) ve DNA Sarılımı
+12.2. Histon Asetilasyonu: Histon Asetiltransferazlar (p300/CBP) ile Negatif Yükün Nötralizasyonu
+12.3. Histon Deasetilazlar (HDAC1-11) ve Özellikle HDAC2'nin "Bellek Freni" Olarak İşlevi
+12.4. Seçici HDAC İnhibitörleri ve PROTAC Teknolojisi ile HDAC2 Degronlarının Tasarımı
+12.5. Histon Metilasyonu: H3K4me3 (Aktivatör) vs. H3K9me3 / H3K27me3 (Baskılayıcı) Karşıtlığı
+12.6. Kromatin Yeniden Şekillendirme Kompleksleri (SWI/SNF, BAF Kompleksi) ve ATP Bağımlı Açılım
+12.7. Eukromatin Kinetiği: Transkripsiyon Fabrikalarının Hedef Gen Lokuslarına Göçü
+12.8. Histon Kuyruk Modifikasyonlarının Kinetik Hız Sabitleri ($k_{on}, k_{off}$)
+12.9. Karşılaştırmalı Veri Tablosu: Histon Modifikasyon Türleri, Spesifik Enzimler ve Bilişsel Etki Skoru
+12.10. Bölüm Sentezi ve Kromatin Açılım Protokolü
+
+BÖLÜM 13: SENTETİK VE OPTO-EPİGENETİK KONTROL: dCas9-TET1, dCas9-p300 VE 450 nm FOTONİK [50 SAYFA]
+13.1. Katalitik Olarak Ölü Cas9 (dCas9) Tabanlı Sentetik Transkripsiyonel Epigenetik Editörler
+13.2. dCas9-TET1 Füzyonu: Hedef Gen Lokuslarında Noktasal Demetilasyonun Moleküler Kinetiği
+13.3. dCas9-p300Core Füzyonu: Spesifik Nöral Promotorlarda Süper-Enhancer İndüksiyonu
+13.4. Opto-Genetik ve Fotonik Hibrit Sistemler: Kriptokrom-2 (CRY2) ve CIB1 Heterodimerizasyonu
+13.5. 450 nm Mavi Işık ile Milisaniyeler İçinde Gen Açma/Kapama Dinamikleri
+13.6. İçsel Işık Kaynakları: Biolüminesant Rezonans Enerji Transferi (BRET) ve Luciferin-Luciferase
+13.7. Kafatası-Dışı Işık Uygulaması: Yukarı-Dönüştürücü Nanopartiküller (UCNP - NIR'dan Mavi Işığa)
+13.8. Fotonik Dozimetri, Işık Emilimi ve Nöronal Isınma Sınırları ($<0.5^\circ\text{C}$)
+13.9. Karşılaştırmalı Veri Tablosu: Sentetik Epigenetik Editörler, Hedef Lokusları ve Aktivasyon Katsayıları
+13.10. Bölüm Sentezi ve Opto-Epigenetik Laboratuvar Protokolü
+
+BÖLÜM 14: PEPTİT TERAPÖTİKLERİ VE BÜYÜME FAKTÖRÜ MİMETİKLERİ: DİHEXA, SEMAX, SELANK [50 SAYFA]
+14.1. Nörotrofik Faktörlerin Kısıtlılıkları (KBB Geçişi, Kısa Yarı Ömür) ve Peptidomimetik Çözümler
+14.2. Dihexa (N-hexanoic-Tyr-Ile-(6) aminohexanoic amide): Tasarımı, Sentezi ve Moleküler Yapısı
+14.3. Dihexa - c-Met (Hepatosit Büyüme Faktörü Reseptörü) Etkileşim Biyofiziği ve Pikomolar Afinite
+14.4. Dihexa Aracılı Aşırı Sinaptojenez: BDNF'ten 10 Milyon Kat Güçlü Dendritik Omurga Oluşumu
+14.5. Semax (MEHFPGP): ACTH(4-7) Pro-Gly-Pro Türevi; TrkB Ekspresyonu ve BDNF mRNA Artırımı
+14.6. Selank: Tuftsin Türevi Anksiyolitik Peptit; Enkefalin Parçalanma İnhibisyonu ve GABA Modülasyonu
+14.7. Cerebrolysin ve P21 Peptitleri: CNTF Mimetik Nörogenezis ve Kök Hücre Diferansiyasyonu
+14.8. Peptitlerin İntranazal KBB Aşım Kinetikleri ve Olfaktör / Trigeminal Sinir Yolları
+14.9. Karşılaştırmalı Veri Tablosu: Peptit Terapötikleri, Afiniteleri ($K_d$), Molekül Ağırlıkları ve Dozları
+14.10. Bölüm Sentezi ve Klinik Peptit İstifleme (Stacking) Protokolü
+
+BÖLÜM 15: İLERİ DÜZEY AMPAKİNLER VE GLUTAMATERJİK MODÜLATÖRLER: TAK-653, CX717 VE ALLASTERİK LTP [50 SAYFA]
+15.1. AMPA Reseptör Fizyolojisi ve Hızlı İletim: Desensitizasyon ve Deaktivasyon Kinetiği
+15.2. Ampakinlerin Biyokimyasal Keşfi: CX516, CX717, Farampator ve Kısıtlılıkları
+15.3. Yeni Nesil Pozitif Allosterik Modülatör (PAM): TAK-653 Moleküler Yapısı ve Seçiciliği
+15.4. TAK-653'ün GluA1-GluA4 Reseptörlerindeki Allosterik Bağlanma Cebi ve Kinetiği
+15.5. Eksitotoksisite Yaratmadan LTP Eşiğini Düşürme: "Silent Synapse" Aktivasyonu
+15.6. NMDA Reseptör Ko-Agonistleri: D-Serin, Glisin ve GlyT1 İnhibitörleri (Bitopertin)
+15.7. AMPA-NMDAR Oranının (AMPA/NMDA Ratio) Bilişsel Hız ve Belleğe Matematiksel Etkisi
+15.8. Dozimetri, Tolerans Gelişimi ve Reseptör Düşük-Regülasyonunun Önlenmesi
+15.9. Karşılaştırmalı Veri Tablosu: Ampakin Molekülleri, $EC_{50}$ Değerleri, KBB İndeksleri ve LTP Artışları
+15.10. Bölüm Sentezi ve Glutamaterjik Amplifikasyon Reçetesi
+
+BÖLÜM 16: NÖROJENİK MOLEKÜLLER VE KÖK HÜCRE DİFERANSİYASYONU: NSI-189 VE 7,8-DHF [50 SAYFA]
+16.1. Yetişkin Beyninde Nörogenezis: Subgranüler Zon (SGZ) ve Subventriküler Zon (SVZ)
+16.2. Nöral Kök Hücrelerin (NSC) Proliferasyonu, Diferansiyasyonu ve Fonksiyonel Entegrasyonu
+16.3. NSI-189 (Benzilpiperidin Türevi): Moleküler Yapısı ve Hipokampal Nörojenezi Tetikleme Yolu
+16.4. NSI-189'un Hipokampal Hacim Büyümesi ve Epizodik Bellek Üzerindeki İnsan Verileri
+16.5. 7,8-Dihidroksiflavon (7,8-DHF) ve R13 Ön-İlacı: Doğrudan TrkB Reseptör Agonizmi
+16.6. TrkB Fosforilasyonu ($Tyr515, Tyr816$): MAPK/ERK ve PI3K/Akt Nöronal Sağkalım Kaskadları
+16.7. Klotho Proteini: İndükleyicileri, Reseptör Sinyali ve Nörodejeneratif Kalkan Olarak Rolü
+16.8. Dentat Girus Granül Nöronlarının Mevcut Ağlara Elektrofizyolojik Entegrasyonu
+16.9. Karşılaştırmalı Veri Tablosu: Nörojenik Moleküller, Hedef Yolakları, Yarı Ömürleri ve Büyüme Oranları
+16.10. Bölüm Sentezi ve Yetişkin Nörogenezis Protokolü
+
+BÖLÜM 17: NÖRO-NANOTEKNOLOJİ VE BİYOSİBERNETİK ARAYÜZLER: MANYETO-ELEKTRİK VE BCGN [50 SAYFA]
+17.1. Nanotıpta Kan-Beyin Bariyerini Aşan Fonksiyonelleştirilmiş Akıllı Taşıyıcılar
+17.2. Manyeto-Elektrik Nanopartiküller (MENP): Dışsal Düşük Manyetik Alanla Lokal Voltaj İndüksiyonu
+17.3. Karbon Nanotüpler ve Grafen Oksit Bazlı Nöron-Elektrot Arayüzleri
+17.4. Nöral Dantel (Neural Lace): Damar İçi Enjeksiyonla Neokortekse Yerleşen Mesh Elektronik
+17.5. Tekil Nöron Çözünürlüğünde İki Yönlü Optik/Elektriksel Sinyal Okuma ve Yazma
+17.6. Biyosibernetik Glial Ağ (BCGN): Astrositik Ağlarla Yapay Nanobot İletişimi
+17.7. İnsan Bilişi ile Bulut Tabanlı Derin Yapay Zeka (ASI) Modellerinin Doğrudan Entegrasyonu
+17.8. Biyouyumluluk, Yabancı Cisim Reaksiyonu ve Glial Skar Önleme Kaplamaları (CD200)
+17.9. Karşılaştırmalı Veri Tablosu: Nöral Nanomalzemeler, İletkenlik Değerleri ve Biyouyumluluk Süreleri
+17.10. Bölüm Sentezi ve Biyosibernetik Arayüz Kurulum Rehberi
+
+BÖLÜM 18: KUANTUM BİYOLOJİSİ VE MİKROTÜBÜLER DİNAMİKLER: Orch-OR VE DOLANIKLIK [50 SAYFA]
+18.1. Makroskobik Kuantum Biyolojisinin Ortaya Çıkışı: Fotosentez, Kuş Manyetoreseptörleri ve Beyin
+18.2. Nöronal Sitoiskelet Mimarisi: Mikrotübüller, Tubulin Heterodimerleri ve Dipol Momentleri
+18.3. Penrose-Hameroff Orchestrated Objective Reduction (Orch-OR) Kuramının Biyofizik İncelemesi
+18.4. Tubulin İçi Aromatik Halkalar (Triptofan, Tirozin): FRET ve Eksiton Delokalizasyonu
+18.5. Mikrotübüllerde Terahertz (THz) Rezonans Frekansları ve Anesteziklerin Bu Frekansı Baskılaması
+18.6. Kuantum Dekoleransı Önleme: Hidrofobik Cepler ve Koruyucu Yapısal Su (Ordered Water) Katmanları
+18.7. Kuantum Tünelleme ve İyon Kanallarındaki Proton Geçişleri
+18.8. Biyofotonik Emisyon ve Nöronlar Arası Dolanıklık Hipotezlerinin Matematiksel Sınırları
+18.9. Karşılaştırmalı Veri Tablosu: Kuantum Biyolojik Parametreler, Koherans Süreleri ve Frekans Aralıkları
+18.10. Bölüm Sentezi ve Mikrotübüler Rezonans Optimizasyon Protokolü
+
+BÖLÜM 19: BİYOGÜVENLİK, EKSİTOTOKSİSİTE VE POPPERİAN YANLIŞLAMA: ONKOGENEZ VE TOLERANS [50 SAYFA]
+19.1. Popperian Yanlışlama Metodolojisi: Zeka Amplifikasyonunda Hipotezlerin İşkence Testi
+19.2. Eksitotoksisite Tehdidi: Aşırı GluN2B Aktivasyonu, Kalsiyum Taşması ve Calpain/Kaspaz Apoptozu
+19.3. Memantin ve Düşük Afiniteli Açık-Kanal Blokörleri ile Fizyolojik Güvenlik Kalkanı
+19.4. Onkogenez ve Tümörijenez Riskleri: Sürekli ARHGAP11B veya hTERT Ekspresyonunun Glioblastoma Riski
+19.5. Sentetik Emniyet Kilitleri: İndüklenebilir Kaspaz-9 (iCasp9) İntihar Genleri ve p53 Entegrasyonu
+19.6. İmmünolojik Tolerans: Bakteriyel Cas9 ve Viral AAV Kapsitlerine Karşı CD8+ T Hücresi Saldırıları
+19.7. Nöronal Tükenmişlik (Burnout), Duyusal Aşırı Yükleme ve Savantizm Patolojileri
+19.8. Psikiyatrik Denge: Prefrontal Aşırı Aktivasyonda Amigdala GABAerjik Freninin Korunması
+19.9. Karşılaştırmalı Veri Tablosu: Potansiyel Biyolojik Tehditler, Eşik Değerleri ve Önleme Kalkanları
+19.10. Bölüm Sentezi ve Biyogüvenlik Sertifikasyon Protokolü
+
+BÖLÜM 20: KOGNİTİF METAMORFOZ MASTER PLANI: 180 GÜNLÜK SENTEZ, DOZİMETRİ VE NİHAİ ENTEGRASYON [50 SAYFA]
+20.1. 180 Günlük Kronolojik Metamorfoz Takviminin Sistemik Mimarisi
+20.2. Faz 1 (Gün 1-30): Metabolik Temizlik, Mitokondriyal Biyogenez Priming ve Glifatik Restorasyon
+20.3. Faz 2 (Gün 31-75): Sistemik Vektör Teslimatı ile Genomik & Epigenetik Düzenleme (GRIN2B, SRGAP2C)
+20.4. Faz 3 (Gün 76-120): Farmakolojik Sinaptik Patlama (Dihexa, TAK-653, Semax, Cerebrolysin)
+20.5. Faz 4 (Gün 121-180): Yapısal Konsolidasyon, Nöromodülasyon (tFUS, TBS) ve Ağ Entegrasyonu
+20.6. Günlük Biyobelirteç Takip Matrisi: Serum NfL (Nörofilament Hafif Zincir), NSE ve KBB İndeksleri
+20.7. Kognitif Test Bataryası: Akışkan Zeka ($G_f$), Çalışma Belleği ($WMC$) ve İşleme Hızı Metrikleri
+20.8. Zihinsel Entegrasyon: Yeni Sinaptik Mimarinin Üst Düzey Düşünce ve Problem Çözmeye Kanalizasyonu
+20.9. Nihai Karşılaştırmalı Veri Tablosu: Baseline İnsan vs. Homo Singularis Biyolojik & Bilişsel Parametreleri
+20.10. Büyük Epilog: Sonsuz Zeka, Post-Human Biliş ve Evrensel Anlayışın Şafağı
+====================================================================================================
+[TAM 1000 SAYFALIK MASTER MÜFREDAT: 20 BÖLÜM x 50 SAYFA - TAMAMLANDI]
+====================================================================================================
